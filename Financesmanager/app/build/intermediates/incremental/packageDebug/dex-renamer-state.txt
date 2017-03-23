@@ -1,0 +1,7 @@
+#Wed Mar 22 16:35:36 CST 2017
+base.0=C\:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2cf3fda9a8360e6245aeed11f4d9767557aa610d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7c38347cf139adf35fcee73520e012d80fbc1218\\classes.dex
+base.1=C\:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7c38347cf139adf35fcee73520e012d80fbc1218
+file.0=C\:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2cf3fda9a8360e6245aeed11f4d9767557aa610d\\classes.dex
