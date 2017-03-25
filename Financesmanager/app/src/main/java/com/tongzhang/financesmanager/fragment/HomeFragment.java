@@ -13,7 +13,7 @@ import com.tongzhang.financesmanager.R;
  * Created by zt041 on 2017-03-22.
  */
 
-public class HomeFragment extends Fragment{
+public class HomeFragment extends Fragment {
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
