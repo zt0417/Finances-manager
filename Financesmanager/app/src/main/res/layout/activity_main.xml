@@ -22,10 +22,7 @@
             android:id="@android:id/tabcontent"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:layout_weight="0" >
-
-        </FrameLayout>
-
+            android:layout_weight="0" />
     </com.tongzhang.financesmanager.widget.FragmentTabHost>
 
 

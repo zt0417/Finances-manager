@@ -3,4 +3,8 @@
     <string name="home">Home</string>
     <string name="detail">Detail</string>
     <string name="mine">Mine</string>
+    <string name="result">Result</string>
+
+
+
 </resources>

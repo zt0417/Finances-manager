@@ -1,8 +1,8 @@
 package com.tongzhang.financesmanager;
 
-import android.support.v4.app.Fragment;
-import android.support.v7.app.AppCompatActivity;
+import android.app.FragmentTransaction;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.ImageView;
@@ -18,22 +18,61 @@ import com.tongzhang.financesmanager.widget.FragmentTabHost;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MainActivity extends AppCompatActivity {
+import de.greenrobot.event.EventBus;
 
+
+public class MainActivity extends AppCompatActivity {
 
     private LayoutInflater mInflater;
     private FragmentTabHost mTabhost;
-
     private List<Tab> mTab = new ArrayList<>();
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //register eventbus
+        //EventBus.getDefault().register(this);
+
+        HomeFragment newFragment = new HomeFragment();
+        FragmentTransaction transaction = getFragmentManager().beginTransaction();
+        transaction.addToBackStack(null);
+        transaction.commit();
         initTab();
     }
+
+    //receive
+    /*private void postData(){
+        String string="lol";
+        EventBus.getDefault().post(string);
+    }
+
+    public  void Event(String string){
+
+    }
+
+    public void onEventThread(String string) {
+
+    }
+
+    public void onEventPosdtThread(String string) {
+
+    }
+
+    public void onEventBackgroundThread(String string) {
+
+    }
+
+    public void onEventAsync(String string){
+
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        EventBus.getDefault().unregister(this);
+    }*/
 
     private void initTab() {
 
@@ -67,6 +106,5 @@ public class MainActivity extends AppCompatActivity {
 
         return view;
     }
-
 
 }
