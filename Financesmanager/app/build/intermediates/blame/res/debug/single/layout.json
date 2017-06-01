@@ -60,14 +60,24 @@
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
+=======
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_lines.xml"
     },
@@ -92,18 +102,35 @@
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
+=======
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_view.xml"
     },
@@ -132,14 +159,24 @@
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
+=======
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mine.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\src\\main\\res\\layout\\fragment_mine.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
     },
@@ -156,6 +193,13 @@
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
@@ -170,5 +214,12 @@
     {
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+<<<<<<< HEAD
+=======
+    },
+    {
+        "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\src\\main\\res\\layout\\activity_test.xml"
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
     }
 ]

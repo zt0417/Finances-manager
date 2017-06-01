@@ -5,6 +5,7 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
+<<<<<<< HEAD
     timestamp="555921906764900"
     token="-4672413830149839305"
     verifier="R_CLASS_CHANGE" >
@@ -12,11 +13,21 @@
     <task
         name="javac"
         duration="537" />
+=======
+    timestamp="344622915968"
+    token="-4672413830149839305"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="10048" />
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
+<<<<<<< HEAD
         duration="97" />
     <task
         name="verifier"
@@ -34,11 +45,25 @@
 
     <build
         timestamp="545409431673810"
+=======
+        duration="5131" />
+    <task
+        name="verifier"
+        duration="1252" />
+
+    <artifact
+        location="C:\Android\Finances manager\Financesmanager\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="344622915968"
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Android\Finances manager\Financesmanager\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
+<<<<<<< HEAD
     <build
         timestamp="552537414594549"
         verifier="COLD_SWAP_REQUESTED" >
@@ -66,5 +91,7 @@
             location="C:\Android\Finances manager\Financesmanager\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
             type="DEX" />
     </build>
+=======
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
 
 </instant-run>

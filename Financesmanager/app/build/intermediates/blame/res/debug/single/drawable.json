@@ -16,6 +16,17 @@
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\src\\main\\res\\drawable\\selector_icon_detail.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_grid_32.png",
+        "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\src\\main\\res\\drawable\\icon_grid_32.png"
+    },
+    {
+        "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_list_32.png",
+        "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\src\\main\\res\\drawable\\icon_list_32.png"
+    },
+    {
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
     },
@@ -24,6 +35,13 @@
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_search_view.xml",
+        "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\src\\main\\res\\drawable\\selector_search_view.xml"
+    },
+    {
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
@@ -36,14 +54,24 @@
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
+=======
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
     },
@@ -52,6 +80,13 @@
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_check_32.png",
+        "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\src\\main\\res\\drawable\\icon_check_32.png"
+    },
+    {
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
     },
@@ -72,14 +107,24 @@
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
+=======
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
@@ -92,6 +137,13 @@
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_head.png",
+        "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\src\\main\\res\\drawable\\default_head.png"
+    },
+    {
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
@@ -112,6 +164,13 @@
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_check_checked_32.png",
+        "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\src\\main\\res\\drawable\\icon_check_checked_32.png"
+    },
+    {
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
     },
@@ -124,10 +183,24 @@
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_item_bg.xml",
+        "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\src\\main\\res\\drawable\\selector_item_bg.xml"
+    },
+    {
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_back_32px.png",
+        "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\src\\main\\res\\drawable\\icon_back_32px.png"
+    },
+    {
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
     },
