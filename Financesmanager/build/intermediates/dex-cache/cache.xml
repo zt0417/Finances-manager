@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android\Finances manager\Financesmanager\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Android\Finances manager\Financesmanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_2ff74bd31a6e8750bac1fe4c9896e702430cfe0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Finances manager\Financesmanager\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Android\Finances manager\Financesmanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9638fe67ed29d8c9ffc1a799edf37be3a134859f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Finances manager\Financesmanager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Android\Finances manager\Financesmanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_e6843271b058b63f4cbd746e02999c0710607b93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Finances manager\Financesmanager\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Android\Finances manager\Financesmanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_aeb0bbef143bae1622f37655a5e457808ea88f0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Finances manager\Financesmanager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Android\Finances manager\Financesmanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_fa5a790fbf16508e91cf26984c7fb0b2c88b110b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Finances manager\Financesmanager\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="309390474e00a5ea1c36fca624c6aea4996aed22">
+        <dex dex="C:\Android\Finances manager\Financesmanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2cf3fda9a8360e6245aeed11f4d9767557aa610d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Finances manager\Financesmanager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Android\Finances manager\Financesmanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_9c016842e205c7ff2fb6c929125a38fb93428361\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Finances manager\Financesmanager\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="829a9876f21676b6581b5a49af13cd4c5e495ddd">
+        <dex dex="C:\Android\Finances manager\Financesmanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7c38347cf139adf35fcee73520e012d80fbc1218\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Finances manager\Financesmanager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Android\Finances manager\Financesmanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_778076f80bb88f277ab7314b16e262a8c932cd7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Finances manager\Financesmanager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Android\Finances manager\Financesmanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_b5022fb298564f0db2e3d0b2a7d43427c5464cfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zt041\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Android\Finances manager\Financesmanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_39c35e8f398bb7cd42b0e00ea1288f3d150f060c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Finances manager\Financesmanager\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Android\Finances manager\Financesmanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_a26ec2d0ae0a1a5bd6a6582ab6942d26c1a27b58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Finances manager\Financesmanager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Android\Finances manager\Financesmanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_cc6646fd4229086f03902c94dd3bcba3b05734e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Finances manager\Financesmanager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Android\Finances manager\Financesmanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2b2bb6ead280d2db67cc24376255f49d870eb3f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Finances manager\Financesmanager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Android\Finances manager\Financesmanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9c8c3e9842a7b8129d5c254cbe484a83be68fd92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Finances manager\Financesmanager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Android\Finances manager\Financesmanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7cbcd80f5cbe23fccab3a4ddfbdc39f8b2f02d3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Finances manager\Financesmanager\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Android\Finances manager\Financesmanager\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_92f283ca8504f0c65064605aedaaddca325c3b50\classes.dex" />
+    </item>
+
+</items>
