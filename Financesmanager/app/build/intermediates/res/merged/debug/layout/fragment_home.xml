@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
     <TextView
@@ -7,4 +8,28 @@
         android:layout_height="wrap_content"
         android:text="@string/home"/>
 
+=======
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:baselineAligned="false"
+    android:orientation="vertical">
+
+
+
+    <com.tongzhang.financesmanager.widget.CnToolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        app:isShowSearchView="true">
+
+    </com.tongzhang.financesmanager.widget.CnToolbar>
+
+
+    <ListView
+        android:id="@+id/diffClass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></ListView>
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
 </LinearLayout>

@@ -6,7 +6,11 @@
     android:layout_height="match_parent"
     tools:context="com.tongzhang.financesmanager.MainActivity"
     android:orientation="vertical">
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
     <FrameLayout
         android:id="@+id/realtabcontent"
         android:layout_width="match_parent"

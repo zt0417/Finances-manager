@@ -16,14 +16,24 @@
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_edittext.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_default.xml"
     },
     {
+=======
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_default.xml"
+    },
+    {
+>>>>>>> 95871e3ed718d158d266323db1dcf0616ce044d3
         "merged": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
         "source": "C:\\Android\\Finances manager\\Financesmanager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_btn_checkable.xml"
     },
